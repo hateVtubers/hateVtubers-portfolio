@@ -33,7 +33,7 @@ export const social = [
   },
   {
     Icon: FaLinkedinIn,
-    url: 'https://www.linkedin.com/in/guillermo-mollo-flores-778b52233s',
+    url: 'https://www.linkedin.com/in/guillermo-mollo-flores-778b52233/',
     alt: 'linkedin',
   },
   {
