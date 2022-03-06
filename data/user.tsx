@@ -33,7 +33,7 @@ export const social = [
   },
   {
     Icon: FaLinkedinIn,
-    url: 'https://linkedin.com/in/hate-vtubers/',
+    url: 'https://www.linkedin.com/in/guillermo-mollo-flores-778b52233s',
     alt: 'linkedin',
   },
   {
