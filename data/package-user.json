@@ -1,0 +1,22 @@
+{
+  "author": "Guillermo Mollo",
+  "username": "@hateVtubers",
+  "description": {
+    "type": "Open-source",
+    "url": "github.com/hateVtubers",
+    "aboutMe": "I hate myself"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "next": "^12.1.0",
+    "graphql": "^16.3.0",
+    "typescript": "^4.6.2",
+    "tailwindcss": "^3.0.23",
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {
+    "editor": "vscode",
+    "country": "chile",
+    "watsonAmelia": ["ame doko?", "ame where?", "ame how?", "ame's so cute"]
+  }
+}
